@@ -41,7 +41,7 @@ extras_require_disc = [
 
 extras_require_cont = [
     # 'ray[rllib,debug]==0.9.0',
-    "tensorflow==2.2.0",
+    "tensorflow==2.9.3",
     "tensorflow-probability==0.9.0",
     "requests==2.22.0",
     "mujoco-py==2.0.2.13",  # with mujoco 2.0

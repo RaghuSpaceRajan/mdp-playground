@@ -36,7 +36,7 @@ extras_require_disc = [
     "gym[atari]==0.14",
     "atari-py==0.2.5",  # https://github.com/openai/atari-py/issues/81 #TODO Remove
     "matplotlib==3.2.1",  # #TODO Remove?
-    "pillow==6.1.0",
+    "pillow==9.3.0",
 ]
 
 extras_require_cont = [
@@ -51,7 +51,7 @@ extras_require_cont = [
     "gym[atari]==0.14",
     "atari-py==0.2.5",  # https://github.com/openai/atari-py/issues/81 #TODO Remove
     "matplotlib==3.2.1",  # #TODO Remove?
-    "pillow==6.1.0",
+    "pillow==9.3.0",
 ]
 
 hpo_analysis_require = [
